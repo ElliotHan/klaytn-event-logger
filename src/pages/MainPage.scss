@@ -1,0 +1,16 @@
+.MainPage {
+  padding-top: 50px;
+  width: 100%;
+  min-height: 100%;
+  min-width: $min-page-width;
+  max-width: 700px;
+  margin: 0 auto;
+  h2 {
+    margin-bottom: 15px;
+  }
+}
+
+.MainPage__getLogButton {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
